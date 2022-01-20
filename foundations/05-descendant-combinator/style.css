@@ -1,0 +1,17 @@
+div > p {
+    background-color: #f8e003;
+    color:#f80303;
+    font-size:28px;
+    text-align: center;
+}
+
+/* Another solution */
+
+/*
+.container .text {
+    background-color: #f8e003;
+    color:#f80303;
+    font-size:28px;
+    text-align: center;
+}
+*/
